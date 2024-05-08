@@ -1,0 +1,3 @@
+[submodule "fm4se-satsolving"]
+	path = fm4se-satsolving
+	url = https://github.com/se-buw/fm4se-satsolving
