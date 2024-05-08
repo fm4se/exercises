@@ -1,3 +1,27 @@
 [submodule "fm4se-satsolving"]
 	path = fm4se-satsolving
 	url = https://github.com/se-buw/fm4se-satsolving
+[submodule "fm4se-featuremodels"]
+	path = fm4se-featuremodels
+	url = https://github.com/se-buw/fm4se-featuremodels
+[submodule "fm4se-smtsolving"]
+	path = fm4se-smtsolving
+	url = https://github.com/se-buw/fm4se-smtsolving
+[submodule "fm4se-java-smt-pc-config"]
+	path = fm4se-java-smt-pc-config
+	url = https://github.com/se-buw/fm4se-java-smt-pc-config
+[submodule "fm4se-alloy-solving"]
+	path = fm4se-alloy-solving
+	url = https://github.com/se-buw/fm4se-alloy-solving
+[submodule "fm4se-alloy-sigs-checker"]
+	path = fm4se-alloy-sigs-checker
+	url = https://github.com/se-buw/fm4se-alloy-sigs-checker
+[submodule "fm4se-ltl-modelchecking"]
+	path = fm4se-ltl-modelchecking
+	url = https://github.com/se-buw/fm4se-ltl-modelchecking
+[submodule "fm4se-rbac"]
+	path = fm4se-rbac
+	url = https://github.com/se-buw/fm4se-rbac
+[submodule "fm4se-alloy-christmas"]
+	path = fm4se-alloy-christmas
+	url = https://github.com/se-buw/fm4se-alloy-christmas
