@@ -1,8 +1,17 @@
-# Exercises
+# Formal Methods for Software Engineering Exercises with autograding
 
 This repository contains the exercises for the *Formal Methods for Software Engineering* course at the Bauhaus-Universität Weimar.
 Each submodule contains a different exercise. The following Table lists the exercises, corresponding submodule, and the original repository.
 
+## Autograding and GitHub Classroom 
+
+All repositories support autograding via GitHub Classroom. Autograding uses GitHub Actions to run test cases (JUnit) and extract reports from the test results. The tests can be used for feedback when working on the tasks locally (where GitHub Actions are not executed).
+
+We describe the migration from regular worksheets to GitHub Classroom in this experience report:
+
+> Soaibuzzaman, Ringert, J.O. [Introducing GitHub Classroom into a Formal Methods Module](https://drive.usercontent.google.com/download?id=1lOUPtS6uRowr0kwmNJo9qvb_dHfA3o1r&export=download). In: Sekerinski, E., Ribeiro, L. (eds) Formal Methods Teaching. FMTea   2024. Lecture Notes in Computer Science, vol 14939. Springer, Cham. doi: 10.1007/978-3-031-71379-8_2
+
+## List of Exercises
 
 | Exercise | Submodule | Description |
 | --- | --- | --- |
@@ -29,7 +38,7 @@ cd exercises
 git submodule update --init --recursive
 ```
 
-To update all submodules with latest changes, use the following command:
+To update all submodules with the latest changes, use the following command:
 
 ```bash
 git submodule update --recursive --remote --merge
