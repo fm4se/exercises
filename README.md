@@ -1,4 +1,4 @@
-# Formal Methods for Software Engineering Exercises with autograding
+# FM4SE Exercises with Autograding
 
 This repository contains the exercises for the *Formal Methods for Software Engineering* course at the Bauhaus-Universität Weimar.
 Each submodule contains a different exercise. The following Table lists the exercises, corresponding submodule, and the original repository.
